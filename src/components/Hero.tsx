@@ -67,7 +67,7 @@ const Hero = () => {
               className="border-primary hover:bg-primary/10"
               asChild
             >
-              <a href="/curriculo.pdf" download="Rafael_Matuda_Curriculo.pdf">
+              <a href="/portfolio/curriculo.pdf" download="Rafael_Matuda_Curriculo.pdf">
                 <FontAwesomeIcon icon={faDownload} className="mr-2 h-5 w-5" />
                 {t('hero.downloadCV')}
               </a>
