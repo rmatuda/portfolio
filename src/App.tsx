@@ -16,8 +16,9 @@ const App = () => (
       <BrowserRouter basename="/portfolio">
         <Routes>
           <Route path="/" element={<Index />} />
+          <Route index element={<Index />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
-          <Route path="*" element={<NotFound />} />
+          <Route path="*" element={<Index />} />
         </Routes>
       </BrowserRouter>
     </TooltipProvider>
