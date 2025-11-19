@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "skills": "Habilidades",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "role": "Desenvolvedor Full Stack",
+    "description": "Apaixonado por criar soluções elegantes e eficientes com tecnologias modernas",
+    "viewWork": "Ver Projetos",
+    "contact": "Entrar em Contato",
+    "downloadCV": "Baixar Currículo"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "subtitle": "Conheça um pouco mais sobre minha jornada",
+    "greeting": "Olá! Eu sou Rafael Matuda",
+    "paragraph1": "Sou um desenvolvedor full stack apaixonado por criar aplicações web elegantes e eficientes. Com experiência em tecnologias modernas, gosto de transformar ideias complexas em soluções simples e intuitivas.",
+    "paragraph2": "Minha jornada no desenvolvimento começou com curiosidade e evoluiu para uma paixão por resolver problemas reais através da tecnologia. Acredito em código limpo, design responsivo e experiências de usuário excepcionais.",
+    "currentlyLearning": "Atualmente, estou aprofundando meus conhecimentos em",
+    "technologies": "arquitetura de sistemas, automação com IA e melhores práticas de desenvolvimento.",
+    "education": "Educação",
+    "educationDesc": "Estudante de Engenharia de Software na Universidade de Brasília (UnB), construindo uma base sólida em ciência da computação e desenvolvimento.",
+    "fullstack": "Desenvolvimento Full-Stack",
+    "fullstackDesc": "Experiente em desenvolvimento frontend e backend, criando soluções completas desde o design de banco de dados até interfaces de usuário.",
+    "aiAutomation": "IA & Automação",
+    "aiAutomationDesc": "Especializado em agentes de IA e fluxos de automação usando ferramentas e tecnologias modernas para otimizar processos.",
+    "mainDescription": "Sou apaixonado por usar tecnologia para resolver problemas do mundo real. Com experiência em desenvolvimento full-stack e grande interesse em automação com IA, estou sempre explorando novas formas de criar soluções eficientes e escaláveis. Atualmente trabalhando em projetos que combinam tecnologias web modernas com automação inteligente."
+  },
+  "skills": {
+    "title": "Habilidades & Tecnologias",
+    "subtitle": "Ferramentas e tecnologias com as quais trabalho",
+    "backend": "Backend",
+    "frontend": "Frontend",
+    "database": "Banco de Dados",
+    "aiAutomation": "IA & Automação"
+  },
+  "projects": {
+    "title": "Projetos em Destaque",
+    "subtitle": "Alguns dos meus trabalhos recentes",
+    "comingSoon": "Em breve...",
+    "description": "Projetos incríveis estão a caminho! Fique ligado para ver meus trabalhos mais recentes.",
+    "republicaFacil": {
+      "title": "República Fácil",
+      "description": "Uma plataforma desenvolvida para simplificar a gestão de moradias compartilhadas (repúblicas) com recursos para controle de despesas, gerenciamento de tarefas e comunicação entre moradores."
+    },
+    "viewOnGithub": "Ver no GitHub",
+    "viewAllProjects": "Ver Todos os Projetos no GitHub"
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "subtitle": "Sinta-se à vontade para entrar em contato para colaborações ou apenas um bate-papo amigável",
+    "letsConnect": "Vamos Conectar!",
+    "description": "Estou sempre aberto a discutir novos projetos, ideias criativas ou oportunidades de fazer parte da sua visão.",
+    "findMe": "Me encontre em"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados."
+  }
+}
