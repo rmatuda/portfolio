@@ -46,6 +46,14 @@
       "title": "República Fácil",
       "description": "A platform designed to simplify the management of shared housing (repúblicas) with features for expense tracking, task management, and resident communication."
     },
+    "licitaNow": {
+      "title": "LicitaNow",
+      "description": "Project aimed at ensuring transparency in public spending by the Federal District government, facilitating access to information about companies and their bid waiver contracts."
+    },
+    "microData": {
+      "title": "MicroData",
+      "description": "Management and control system for microbiology data from a laboratory in a Beverage Manufacturing Industry."
+    },
     "viewOnGithub": "View on GitHub",
     "viewAllProjects": "View All Projects on GitHub"
   },

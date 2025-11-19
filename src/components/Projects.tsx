@@ -14,6 +14,18 @@ const Projects = () => {
       description: t('projects.republicaFacil.description'),
       tags: ["React", "Python", "FastAPI", "PostgreSQL"],
       githubUrl: "https://github.com/orgs/Republica-Facil/repositories",
+    },
+    {
+      title: t('projects.licitaNow.title'),
+      description: t('projects.licitaNow.description'),
+      tags: ["Python", "Django", "Web Scraping", "Data Analysis"],
+      githubUrl: "https://github.com/unb-mds/2024-1-Squad-10",
+    },
+    {
+      title: t('projects.microData.title'),
+      description: t('projects.microData.description'),
+      tags: ["Python", "FastAPI", "MySQL", "Data Management"],
+      githubUrl: "https://github.com/rmatuda/2024.2-T03-MicroData",
     }
   ];
 

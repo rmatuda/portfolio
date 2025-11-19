@@ -46,6 +46,14 @@
       "title": "República Fácil",
       "description": "Uma plataforma desenvolvida para simplificar a gestão de moradias compartilhadas (repúblicas) com recursos para controle de despesas, gerenciamento de tarefas e comunicação entre moradores."
     },
+    "licitaNow": {
+      "title": "LicitaNow",
+      "description": "Projeto que visa garantir transparência nos gastos públicos do governo do Distrito Federal, facilitando o acesso às informações sobre empresas e seus contratos de dispensas de licitação."
+    },
+    "microData": {
+      "title": "MicroData",
+      "description": "Sistema de gestão e controle de dados da área de microbiologia de um laboratório de uma Indústria produtora de Bebidas."
+    },
     "viewOnGithub": "Ver no GitHub",
     "viewAllProjects": "Ver Todos os Projetos no GitHub"
   },
